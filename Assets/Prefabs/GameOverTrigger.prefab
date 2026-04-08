@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4936456025053863372}
   - component: {fileID: 5260709075168950732}
   m_Layer: 0
-  m_Name: Obstacle
+  m_Name: GameOverTrigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

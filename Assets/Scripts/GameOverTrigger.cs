@@ -8,6 +8,7 @@ public class GameOverTrigger : MonoBehaviour
         {
             GameManager.Instance.OnGameOver();
             SoundManager.Instance.PlaySfx("SFX/Common/stage-fail");
+            SoundManager.Instance.StopBgm();
         }
     }
 
