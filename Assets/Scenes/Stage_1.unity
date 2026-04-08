@@ -503,7 +503,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: adb58b419fd7bd3418e9a49a03051b15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneBgmSetting
-  bgmName: BGM_Example
+  bgmName: BGM/BGM_Example
 --- !u!4 &640158227
 Transform:
   m_ObjectHideFlags: 0
